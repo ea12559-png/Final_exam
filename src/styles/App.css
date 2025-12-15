@@ -1,0 +1,12 @@
+.app{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(105, 105, 103);
+}
+
+.app__title{
+  background-color: rgb(88, 77, 77);
+  border-radius: 5px;
+}
